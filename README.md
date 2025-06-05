@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Romao Moura!
 
-<!--
-**Romaomoura/Romaomoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Software Developer** apaixonado por tecnologia e inovação, com experiência em múltiplas linguagens, frameworks e práticas modernas de desenvolvimento.
 
-Here are some ideas to get you started:
+## 🚀 Principais habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** Java, Kotlin, TypeScript, Object Pascal/Delphi
+- **Frameworks:** Spring, Quarkus, Angular, React
+- **Bancos de Dados:** SQL, NoSQL
+- **Cloud & DevOps:** AWS, Git, Práticas Ágeis, DevOps
+
+## 💡 Sobre mim
+
+Sempre em busca de desafios para aprender e crescer, acredito que o conhecimento é construído todos os dias, colaborando e compartilhando!
+
+> 🕰️ **“Há para todas as coisas um tempo determinado pelo criador!”**
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cromaomourasilva-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/cromaomourasilva)
+
+---
